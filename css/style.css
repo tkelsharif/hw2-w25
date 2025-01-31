@@ -35,10 +35,8 @@ padding-top: 20px;
 padding-bottom: 20px;
 padding-left: 20px;
 padding-right: 20px;
-border-top: 3px solid #FFFFFF;
-border-left: 3px solid #FFFFFF;
-border-right: 3px solid #FFFFFF;
-border-bottom: 3px solid #FFFFFF;;
+border: 3px solid #FFFFFF;
+
 }
 
 .introduction {
@@ -47,39 +45,43 @@ margin-top: 15px;
 line-height: 2;
 }
 
-.red {
+div.red {
+border: 0px;
 background-color:#FF0000;
 text-align: right;
 margin-left: 50px;
-border-bottom: 2px;
-border-left: 5px;
+border-bottom: 2px solid #FFFFFF;
+border-left: 5px solid #FFFFFF;
 color:  #C4C4C4;
 }
 
-.blue{
+div.blue{
+border: 0px;
 background-color: #0000FF;
 text-align: left;
 margin-right: 50px;
-border-right: 5px;
-border-top: 2px;
+border-right: 5px solid #FFFFFF;
+border-top: 2px solid #FFFFFF;
 color: #C4C4C4;
 }
 
-.yellow {
+div.yellow {
+border: 0px;
 background-color:#FFFF00;
 text-align: right;
 margin-left: 50px;
-border-bottom: 2px;
-border-right: 5px;
+border-bottom: 2px solid #FFFFFF;
+border-right: 5px solid #FFFFFF;
 color: #707070;
 }
 
-.green {
+div.green {
+border: 0px;
 background-color: #008500;
 text-align: left;
 margin-right: 50px;
-border-right: 5px;
-border-top: 2px;
+border-right: 5px solid #FFFFFF;
+border-top: 2px solid #FFFFFF;
 }
 
 footer {
