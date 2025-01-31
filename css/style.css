@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana, sans-serif
     background-color: #000000;
     color: #FFFFFF;
     margin-top: 20px;
@@ -80,9 +80,10 @@ border-right: 5px solid #FFFFFF;
 
 }
 
-.yellow p{
+.yellow p {
     color: #707070;
 }
+
 div.green {
 min-height: 125px;
 border: 0px;
