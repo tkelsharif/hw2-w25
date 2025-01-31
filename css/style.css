@@ -1,9 +1,10 @@
 body{
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana;
     background-color: #000000;
     color: #FFFFFF;
     margin-top: 20px;
     margin-right: 20px;
+    margin-left: 20px;
 } 
 
 h1{
